@@ -16,7 +16,7 @@ Welcome to OmniFood, my first front-end project that seamlessly blends my passio
 
 - **GitHub Repository:** [OmniFood GitHub](https://github.com/Hajar224/Omnifood)
 
-## Tech Stack
+## Languages
 
 - **HTML:** Structuring the web page.
   
