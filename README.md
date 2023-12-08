@@ -12,7 +12,7 @@ Welcome to OmniFood, my first front-end project that seamlessly blends my passio
 
 ## Project Links
 
-- **Live Demo:** [OmniFood Live](https://github.com/Hajar224/Omnifood)
+- **Live Demo:** [OmniFood Live](https://hajar224.github.io/Omnifood/)
 
 - **GitHub Repository:** [OmniFood GitHub](https://github.com/Hajar224/Omnifood)
 
